@@ -1,8 +1,6 @@
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
-
-# load in json
 import json
 
 # Load the API key from a JSON file
